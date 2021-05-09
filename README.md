@@ -8,7 +8,7 @@ A website that provide marketing services.
 * CSS
 
 # Website:
-https://hunterd3cd.github.io/01-HTML-Git-CSS-Challenge/
+https://hunterd3cd.github.io/01-HTML-Git-CSS-Refactor/
 
 # Contribution:
 Made by Hunter
