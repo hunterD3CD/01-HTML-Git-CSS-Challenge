@@ -1,4 +1,4 @@
-# 01-HTML-Git-CSS-Challenge
+# 01-HTML-Git-CSS-REFACTOR
 
 ## Purpose:
 A website that provide marketing services.
@@ -13,10 +13,10 @@ https://hunterd3cd.github.io/01-HTML-Git-CSS-Challenge/
 # Contribution:
 Made by Hunter
 
-# image:
+# Image:
 ![01-html-css-git-homework-refactor](https://user-images.githubusercontent.com/82790906/117582479-07b8fe00-b0b7-11eb-9b24-7b05f7419f55.png)
 
-
+# Refactor notes:
 00: first thing will be setting up the project. it includes creating a new git repository, committing the work to git, and syncing the projec with GitHub;
 ![0  set up the project](https://user-images.githubusercontent.com/82790906/117556021-6a5bbc80-b019-11eb-9b23-e574d2df5f82.PNG)
 
