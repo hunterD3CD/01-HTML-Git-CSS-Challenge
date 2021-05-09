@@ -39,6 +39,7 @@ because the style of the three contents are the same, we can merge it into one u
 10: in the header, in order to have the list item link to the content below, add id to the specified article. and for images, add alt="description of the image" which provides alternative info of the images if a user for some reason can't view it;
 ![10  image link](https://user-images.githubusercontent.com/82790906/117581295-f3720280-b0b0-11eb-8cf8-0c4516fcb24c.PNG)
 
-link of the website: https://hunterd3cd.github.io/01-HTML-Git-CSS-Challenge/
+#link of the website: https://hunterd3cd.github.io/01-HTML-Git-CSS-Challenge/
 
-image: 
+#image: ![01-html-css-git-homework-refactor](https://user-images.githubusercontent.com/82790906/117582097-21594600-b0b5-11eb-9c9c-ec117d609981.png)
+
