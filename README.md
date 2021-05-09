@@ -1,4 +1,10 @@
 # 01-HTML-Git-CSS-Challenge
+
+#website name: Horiseon
+
+#purpose:
+the main purpose of the to develop the accessibility of the website. And build a logic structure of the website, and reducing the repetition of the code,
+
 00: first thing will be setting up the project. it includes creating a new git repository, committing the work to git, and syncing the projec with GitHub;
 ![0  set up the project](https://user-images.githubusercontent.com/82790906/117556021-6a5bbc80-b019-11eb-9b23-e574d2df5f82.PNG)
 
@@ -34,3 +40,5 @@ because the style of the three contents are the same, we can merge it into one u
 ![10  image link](https://user-images.githubusercontent.com/82790906/117581295-f3720280-b0b0-11eb-8cf8-0c4516fcb24c.PNG)
 
 link of the website: https://hunterd3cd.github.io/01-HTML-Git-CSS-Challenge/
+
+image: 
