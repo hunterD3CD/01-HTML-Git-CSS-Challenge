@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* apply style to header */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -51,6 +52,7 @@ p {
   font-size: 16px;
 }
 
+/* hero style start */
 .hero {
   height: 800px;
   width: 100%;
@@ -59,6 +61,7 @@ p {
   background-size: cover;
   background-position: center;
 }
+/* hero style end */
 
 .float-left {
   float: left;
