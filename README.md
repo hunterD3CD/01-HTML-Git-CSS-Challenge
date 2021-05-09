@@ -29,3 +29,8 @@ because the style of the three contents are the same, we can merge it into one u
 
 09: in the footer, in order to build a logic structure, change div to footer. 
 ![9  footer](https://user-images.githubusercontent.com/82790906/117563447-cc88e180-b05a-11eb-874f-1bb418d0009c.PNG)
+
+10: in the header, in order to have the list item link to the content below, add id to the specified article. and for images, add alt="description of the image" which provides alternative info of the images if a user for some reason can't view it;
+![10  image link](https://user-images.githubusercontent.com/82790906/117581295-f3720280-b0b0-11eb-8cf8-0c4516fcb24c.PNG)
+
+link of the website: https://hunterd3cd.github.io/01-HTML-Git-CSS-Challenge/
