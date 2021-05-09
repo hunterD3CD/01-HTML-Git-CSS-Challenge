@@ -1,9 +1,21 @@
 # 01-HTML-Git-CSS-Challenge
 
-#website name: Horiseon
+## Purpose:
+A website that provide marketing services.
 
-#purpose:
-the main purpose of the to develop the accessibility of the website. And build a logic structure of the website, and reducing the repetition of the code,
+## Build with:
+* HTML
+* CSS
+
+# Website:
+https://hunterd3cd.github.io/01-HTML-Git-CSS-Challenge/
+
+# Contribution:
+Made by Hunter
+
+# image:
+![01-html-css-git-homework-refactor](https://user-images.githubusercontent.com/82790906/117582479-07b8fe00-b0b7-11eb-9b24-7b05f7419f55.png)
+
 
 00: first thing will be setting up the project. it includes creating a new git repository, committing the work to git, and syncing the projec with GitHub;
 ![0  set up the project](https://user-images.githubusercontent.com/82790906/117556021-6a5bbc80-b019-11eb-9b23-e574d2df5f82.PNG)
@@ -38,8 +50,3 @@ because the style of the three contents are the same, we can merge it into one u
 
 10: in the header, in order to have the list item link to the content below, add id to the specified article. and for images, add alt="description of the image" which provides alternative info of the images if a user for some reason can't view it;
 ![10  image link](https://user-images.githubusercontent.com/82790906/117581295-f3720280-b0b0-11eb-8cf8-0c4516fcb24c.PNG)
-
-#link of the website: https://hunterd3cd.github.io/01-HTML-Git-CSS-Challenge/
-
-#image: ![01-html-css-git-homework-refactor](https://user-images.githubusercontent.com/82790906/117582097-21594600-b0b5-11eb-9c9c-ec117d609981.png)
-
